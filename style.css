@@ -112,6 +112,7 @@ body {
   font-size: .913rem;
   font-weight: 400;
   color: var(--clr-white-100);
+  text-transform: uppercase;
 }
 
 /*============================ Media queries ============================*/
@@ -129,12 +130,12 @@ body {
   }
 
   .card__data {
-    padding: 3rem;
+    padding: 4rem;
     text-align: initial;
   }
   
   .card__heading {
-    font-size: 2.5rem;
+    font-size: 2rem;
     margin-bottom: 1.5rem;
   }
   
@@ -142,7 +143,7 @@ body {
     flex-direction: row;
     justify-content: flex-start;
     margin-top: 2.75rem;
-    gap: 2rem;
+    gap: 3rem;
   }
   
   .card__attribute{
