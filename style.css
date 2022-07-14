@@ -44,7 +44,7 @@ body {
 /*============================ Stats preview card ============================*/
 .card__container {
   max-width: 320px;
-  width: 95%;
+  width: 90%;
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr;
