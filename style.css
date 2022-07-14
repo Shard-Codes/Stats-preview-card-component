@@ -60,6 +60,7 @@ body {
   height: 200px;
   background-position: center;
   background-size: cover;
+  background-blend-mode: darken;
 }
 
 .card__data {
